@@ -198,7 +198,7 @@ appear in the README.
 
 ## Author
 
-Pagigireddy Bhanuprakash Reddy
+Padigireddy Bhanuprakash Reddy
 
 # Email
 bhanuprakashreddy.p1019@gmail.com
